@@ -1,0 +1,69 @@
+{
+  "status": "ok",
+  "totalResults": 6,
+  "articles": [
+    {
+      "source": { "id": "cbc-news", "name": "CBC News" },
+      "author": "CBC News",
+      "title": "OPINION | Decoding why Danielle Smith's UCP is down in northeast Calgary | CBC News",
+      "description": "All politics is local. The pandemic wasn't the only disaster that made residents of Calgary's most diverse quadrant sour on the governing United Conservatives.",
+      "url": "http://www.cbc.ca/news/canada/calgary/opinion-rishi-nagar-ucp-ndp-northeast-calgary-poll-1.6811140",
+      "urlToImage": "https://i.cbc.ca/1.6671146.1671470362!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/alta-health-reform-20221117.JPG",
+      "publishedAt": "2023-04-15T17:22:17.9081913Z",
+      "content": "EDITOR'S NOTE: This opinion column is based public survey research that CBC News commissioned in late March, roughly two months before Albertans vote in the next election on May 29.\r\nAs with all poll… [+6737 chars]"
+    },
+    {
+      "source": { "id": "associated-press", "name": "Associated Press" },
+      "author": "STEVE PEOPLES and ANTHONY IZAGUIRRE",
+      "title": "Abortion bans raise fears inside GOP about backlash in 2024",
+      "description": "TALLAHASSEE, Fla. (AP) — As a new election season begins, the Republican Party is struggling to navigate the politics of abortion.Allies for leading presidential candidates concede that their hardline anti-abortion policies may be popular with the conservativ…",
+      "url": "https://apnews.com/1280a04a2ba1011c3be8300cf7be4908",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/2fe3a8e288b541dabcaf93d9b42548bb/3000.jpeg",
+      "publishedAt": "2023-04-15T04:28:15Z",
+      "content": "TALLAHASSEE, Fla. (AP) — As a new election season begins, the Republican Party is struggling to navigate the politics of abortion.Allies for leading presidential candidates concede that their hardlin… [+9521 chars]"
+    },
+    {
+      "source": { "id": "the-huffington-post", "name": "The Huffington Post" },
+      "author": "Jonathan Cohn",
+      "title": "Why Ron DeSantis Is Afraid To Talk About The Abortion Ban He Just Signed",
+      "description": "The politics of reproductive rights have become absolutely toxic for Republicans — and the Florida governor appears to recognize that.",
+      "url": "https://www.huffpost.com/entry/ron-desantis-florida-abortion-ban_n_64395086e4b066950599ee1e",
+      "urlToImage": "https://img.huffingtonpost.com/asset/6439a36f2200006a005b8add.jpeg?cache=PO5ISWNgz5&ops=1200_630",
+      "publishedAt": "2023-04-14T20:35:57Z",
+      "content": "This article is part of HuffPosts biweekly politics newsletter. Click here to subscribe.\r\nIf you want to know how the politics of abortion is playing out in America right now, pay attention to a pair… [+11041 chars]"
+    },
+    {
+      "source": { "id": "newsweek", "name": "Newsweek" },
+      "author": "Mark Davis",
+      "title": "Newsweek",
+      "description": "Newsweek provides in-depth analysis, news and opinion about international issues, technology, business, culture and politics.",
+      "url": "https://www.newsweek.com/",
+      "urlToImage": "https://d.newsweek.com/en/full/2202468/special-presidential-envoy-climate-john-kerry.jpg",
+      "publishedAt": "2023-03-01T12:07:28.8517009Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-washington-times",
+        "name": "The Washington Times"
+      },
+      "author": "The Washington Times https://www.washingtontimes.com",
+      "title": "Latest Quizzes",
+      "description": "Take a break from the hard news of the day and enjoy a quiz on entertainment, sports, history and politics only from The Washington Times.",
+      "url": "https://www.washingtontimes.com/quiz/",
+      "urlToImage": null,
+      "publishedAt": "2022-08-30T16:37:43.8583104Z",
+      "content": "Featured Quizzes\r\nTake the challenge to learn about the life and career highlights of famed nonagenarian actress and comedian Betty White.\r\n Shares \r\nRead our synopsis and correctly identify a litera… [+32510 chars]"
+    },
+    {
+      "source": { "id": "the-jerusalem-post", "name": "The Jerusalem Post" },
+      "author": null,
+      "title": "Congresswoman Nita Lowey: I am proud to stand with Israel",
+      "description": "Gantz: Security of Israel is above politics; PA: This is a crime.",
+      "url": "https://www.jpost.com/Arab-Israeli-Conflict/Gantz-Security-of-Israel-is-above-politics-Palestinians-This-is-a-crime-607595",
+      "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/448812",
+      "publishedAt": "2019-11-13T04:41:00Z",
+      "content": "US Ambassador David M. Friedman said the US stands “with our friend and ally Israel at this critical moment” on social media on Tuesday after roughly 170 rockets were fired on Israel from the Gaza St… [+6160 chars]"
+    }
+  ]
+}
