@@ -1,8 +1,12 @@
 import React, { Component } from "react";
 
 export class NewsItem extends Component {
+  dateConv = (origDate) => {
+    let d = new Date(origDate);
+    return d.toString().split(" ").splice(0, 5).join(" ");
+  };
   render() {
-    let { title, description, imageUrl, newsUrl } = this.props;
+    let { title, description, imageUrl, newsUrl, author, date } = this.props;
     return (
       <div className="my-3">
         <div className="card">
@@ -20,6 +24,11 @@ export class NewsItem extends Component {
               {title.length < 83 ? title : `${title}...`}
             </h5>
             <p className="card-text">{description}...</p>
+            <p className="card-text">
+              <small className="text-muted">
+                By {author ? author : "Unknown"} on {this.dateConv(date)}
+              </small>
+            </p>
             <a
               href={newsUrl}
               target="_blank"
